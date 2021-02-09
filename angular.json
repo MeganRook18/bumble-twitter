@@ -105,6 +105,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bumble"
+    }
+  },
+  "defaultProject": "bumble",
+  "cli": {
+    "analytics": false
+  }
 }
